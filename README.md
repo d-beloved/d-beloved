@@ -2,11 +2,11 @@
 
 [![Twitter Badge](https://img.shields.io/badge/-%40morayodeji-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=Twitter&logoColor=white&link=https://twitter.com/morayodeji)](https://twitter.com/morayodeji) [![Linkedin Badge](https://img.shields.io/badge/-moronkejiayodeji-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/moronkeji-ayodeji/)](https://www.linkedin.com/in/moronkeji-ayodeji/) [![Medium Badge](https://img.shields.io/badge/-@moronkejiayodeji-79359c?style=flat-square&labelColor=000000&logo=Medium&link=https://morayodeji.medium.com/)](https://morayodeji.medium.com/)[![morayodeji.com](https://img.shields.io/badge/-morayodeji.com-000000?style=flat-square&logo=hashnode&logoColor=white)](https://morayodeji.com/)
 
-I am a full stack JavaScript developer based in Lagos nigeria. I love solving everyday problems with code. I mainly program in JavaScript but I am always learning new technologies (Java and Python at the moment). I love clean and well written code, team best practices like CI/CD integrations, and testing. At my free time, I sit and stare while analyzing the meaning of life 😁
+I am a full-stack JavaScript developer based in Lagos Nigeria. I love solving everyday problems with code. I mainly program in JavaScript but am always learning new technologies (Python and Generative AI). I love clean, well-written code, team best practices like CI/CD integrations, and testing. In my free time, I play chess ♟️ and the Keyboard 🎹
 
 - 💬 Ask me about anything JavaScript
-- 👨🏻‍🏫 I currently mentor developers [here](https://www.codementor.io/@morayodeji)
-- ⚡ Fun fact: I love e-meeting people and I play a whole lot of chess
+- 👨🏻‍🏫 I generate pixels with Code at [OfferingTreeSBC](https://www.offeringtree.com/)
+- ⚡ Fun fact: I love watching Sci-fi action movies
 
 ## 🏆 My Github Stats
 
