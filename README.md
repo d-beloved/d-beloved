@@ -13,9 +13,12 @@ I am a full-stack JavaScript developer based in Lagos Nigeria. I love solving ev
 <img align="" height='130px' src="https://github-readme-stats.vercel.app/api?username=d-beloved&hide_title=false&show_icons=true&count_private=true&line_height=21&bg_color=0,EC6C6C,FFD479,FFFC79,73FA79&theme=graywhite" /><img align="" height='130px' src="https://github-readme-stats.vercel.app/api/top-langs/?username=d-beloved&hide_title=true&layout=compact&bg_color=0,73FA79,73FDFF,7A81FF&theme=graywhite" />
 
 ---
+<!-- 
 ## 🎧Currently Listening
 
-<!-- [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31w7ft7ossrnlcrxgeeibacykddi&cover_image=false&theme=default)](https://github.com/kittinan/spotify-github-profile) -->
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31w7ft7ossrnlcrxgeeibacykddi&cover_image=false&theme=default)](https://github.com/kittinan/spotify-github-profile) 
+
+-->
 
 <!-- ### Hi there 👋 -->
 
