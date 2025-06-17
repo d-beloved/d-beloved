@@ -353,13 +353,13 @@ ayodeji.sayHello();
   
 </details> -->
 
-## 🎧 Current Vibes
+<!-- ## 🎧 Current Vibes
 
 <div align="center">
   
 [![spotify](https://spotify-github-profile.vercel.app/api/view?uid=31w7ft7ossrnlcrxgeeibacykddi&cover_image=false&theme=default)](https://github.com/kittinan/spotify-github-profile)
 
-</div>
+</div> -->
 
 ## 💬 Let's Connect
 
