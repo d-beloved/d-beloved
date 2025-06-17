@@ -162,10 +162,24 @@ ayodeji.sayHello();
 
 ## 💼 Featured Projects
 
-<div align="center">
+<div align="center" id="featured-projects">
   <!-- FEATURED_PROJECTS_START -->
-  <!-- This section will be automatically updated by the GitHub Action -->
-  <!-- Don't modify this section manually -->
+<a href="https://github.com/d-beloved/aiskillgaugr">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=d-beloved&repo=aiskillgaugr&theme=radical" />
+  </a> <a href="https://github.com/d-beloved/api-sage">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=d-beloved&repo=api-sage&theme=radical" />
+  </a> 
+<a href="https://github.com/d-beloved/news-harbor">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=d-beloved&repo=news-harbor&theme=radical" />
+  </a> <a href="https://github.com/d-beloved/git-repo-lines-of-code">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=d-beloved&repo=git-repo-lines-of-code&theme=radical" />
+  </a> 
+<a href="https://github.com/d-beloved/thelearnedtongue">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=d-beloved&repo=thelearnedtongue&theme=radical" />
+  </a> <a href="https://github.com/Namit2111/bible-verse-finder">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=d-beloved&repo=bible-verse-finder&theme=radical" />
+  </a> 
+
   <!-- FEATURED_PROJECTS_END -->
 </div>
 
