@@ -162,7 +162,7 @@ ayodeji.sayHello();
 
 ## 💼 Featured Projects
 
-<div align="center" id="featured-projects">
+<div align="center">
   <!-- FEATURED_PROJECTS_START -->
   <!-- This section will be automatically updated by the GitHub Action -->
   <!-- Don't modify this section manually -->
