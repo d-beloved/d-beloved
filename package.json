@@ -1,0 +1,10 @@
+{
+  "name": "github-profile-updater",
+  "version": "1.0.0",
+  "description": "Automatically update GitHub profile README",
+  "main": "update-readme.js",
+  "type": "module",
+  "dependencies": {
+    "@octokit/graphql": "^5.0.0"
+  }
+}
