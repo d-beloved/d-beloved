@@ -174,27 +174,27 @@ ayodeji.sayHello();
           <div><img src="https://img.shields.io/badge/-JavaScript-f1e05a?style=flat-square&logo=javascript&logoColor=white" alt="JavaScript"/> <img src="https://img.shields.io/badge/-TypeScript-3178c6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript"/> <img src="https://img.shields.io/badge/-CSS-663399?style=flat-square&logo=css&logoColor=white" alt="CSS"/></div>
         </td>
     <td width="50%" align="center">
+            <a href="https://github.com/d-beloved/news-harbor">
+              <img src="https://github-readme-stats.vercel.app/api/pin/?username=d-beloved&repo=news-harbor&theme=maroongold" />
+            </a>
+            <br />
+            <div><img src="https://img.shields.io/badge/-Dockerfile-384d54?style=flat-square&logo=dockerfile&logoColor=white" alt="Dockerfile"/> <img src="https://img.shields.io/badge/-JavaScript-f1e05a?style=flat-square&logo=javascript&logoColor=white" alt="JavaScript"/> <img src="https://img.shields.io/badge/-HTML-e34c26?style=flat-square&logo=html&logoColor=white" alt="HTML"/></div>
+          </td>
+  </tr>
+  <tr>
+    <td width="50%" align="center">
+          <a href="https://github.com/d-beloved/git-repo-lines-of-code">
+            <img src="https://github-readme-stats.vercel.app/api/pin/?username=d-beloved&repo=git-repo-lines-of-code&theme=maroongold" />
+          </a>
+          <br />
+          <div><img src="https://img.shields.io/badge/-TypeScript-3178c6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript"/></div>
+        </td>
+    <td width="50%" align="center">
             <a href="https://github.com/d-beloved/api-sage">
               <img src="https://github-readme-stats.vercel.app/api/pin/?username=d-beloved&repo=api-sage&theme=maroongold" />
             </a>
             <br />
             <div><img src="https://img.shields.io/badge/-JavaScript-f1e05a?style=flat-square&logo=javascript&logoColor=white" alt="JavaScript"/> <img src="https://img.shields.io/badge/-TypeScript-3178c6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript"/> <img src="https://img.shields.io/badge/-CSS-663399?style=flat-square&logo=css&logoColor=white" alt="CSS"/></div>
-          </td>
-  </tr>
-  <tr>
-    <td width="50%" align="center">
-          <a href="https://github.com/d-beloved/news-harbor">
-            <img src="https://github-readme-stats.vercel.app/api/pin/?username=d-beloved&repo=news-harbor&theme=maroongold" />
-          </a>
-          <br />
-          <div><img src="https://img.shields.io/badge/-Dockerfile-384d54?style=flat-square&logo=dockerfile&logoColor=white" alt="Dockerfile"/> <img src="https://img.shields.io/badge/-JavaScript-f1e05a?style=flat-square&logo=javascript&logoColor=white" alt="JavaScript"/> <img src="https://img.shields.io/badge/-HTML-e34c26?style=flat-square&logo=html&logoColor=white" alt="HTML"/></div>
-        </td>
-    <td width="50%" align="center">
-            <a href="https://github.com/d-beloved/git-repo-lines-of-code">
-              <img src="https://github-readme-stats.vercel.app/api/pin/?username=d-beloved&repo=git-repo-lines-of-code&theme=maroongold" />
-            </a>
-            <br />
-            <div><img src="https://img.shields.io/badge/-TypeScript-3178c6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript"/></div>
           </td>
   </tr>
   <tr>
