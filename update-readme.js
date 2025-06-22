@@ -2,7 +2,7 @@ import { readFileSync, writeFileSync } from 'fs';
 import { graphql } from '@octokit/graphql';
 
 const token = process.env.GITHUB_TOKEN;
-const username = 'd-beloved'; // Your GitHub username
+const username = 'd-beloved';
 
 const query = `{
   user(login: "${username}") {
@@ -28,7 +28,6 @@ const query = `{
   }
 }`;
 
-// Helper function to get language badge
 const getLanguageBadge = (lang, color) => {
   return `<img src="https://img.shields.io/badge/-${lang}-${color.replace('#', '')}?style=flat-square&logo=${lang.toLowerCase()}&logoColor=white" alt="${lang}"/>`;
 };
@@ -46,9 +45,17 @@ async function updateReadme() {
     // Grid layout with cards
     let gridLayout = '';
     repos.forEach(repo => {
-      gridLayout += `<a href="${repo.url}">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=${username}&repo=${repo.name}&theme=radical" />
-  </a> `;
+      const languageBadges = repo.languages.nodes.map(lang => 
+        getLanguageBadge(lang.name, lang.color)
+      ).join(' ');
+      
+     gridLayout += `<div style="margin: 10px;">
+      <a href="${repo.url}">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=${username}&repo=${repo.name}&theme=radical" />
+      </a>
+      <br/>
+      <div align="center">${languageBadges}</div>
+    </div>`;
       
       // Add line break every 2 repos for better mobile display
       if (repos.indexOf(repo) % 2 === 1) {
