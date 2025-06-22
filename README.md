@@ -164,21 +164,45 @@ ayodeji.sayHello();
 
 <div align="center" id="featured-projects">
   <!-- FEATURED_PROJECTS_START -->
-<a href="https://github.com/d-beloved/aiskillgaugr">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=d-beloved&repo=aiskillgaugr&theme=radical" />
-  </a> <a href="https://github.com/d-beloved/api-sage">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=d-beloved&repo=api-sage&theme=radical" />
-  </a> 
-<a href="https://github.com/d-beloved/news-harbor">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=d-beloved&repo=news-harbor&theme=radical" />
-  </a> <a href="https://github.com/d-beloved/git-repo-lines-of-code">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=d-beloved&repo=git-repo-lines-of-code&theme=radical" />
-  </a> 
-<a href="https://github.com/d-beloved/thelearnedtongue">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=d-beloved&repo=thelearnedtongue&theme=radical" />
-  </a> <a href="https://github.com/Namit2111/bible-verse-finder">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=d-beloved&repo=bible-verse-finder&theme=radical" />
-  </a> 
+<div style="margin: 10px;">
+      <a href="https://github.com/d-beloved/aiskillgaugr">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=d-beloved&repo=aiskillgaugr&theme=radical" />
+      </a>
+      <br/>
+      <div align="center"><img src="https://img.shields.io/badge/-JavaScript-f1e05a?style=flat-square&logo=javascript&logoColor=white" alt="JavaScript"/> <img src="https://img.shields.io/badge/-TypeScript-3178c6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript"/> <img src="https://img.shields.io/badge/-CSS-663399?style=flat-square&logo=css&logoColor=white" alt="CSS"/></div>
+    </div><div style="margin: 10px;">
+      <a href="https://github.com/d-beloved/api-sage">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=d-beloved&repo=api-sage&theme=radical" />
+      </a>
+      <br/>
+      <div align="center"><img src="https://img.shields.io/badge/-JavaScript-f1e05a?style=flat-square&logo=javascript&logoColor=white" alt="JavaScript"/> <img src="https://img.shields.io/badge/-TypeScript-3178c6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript"/> <img src="https://img.shields.io/badge/-CSS-663399?style=flat-square&logo=css&logoColor=white" alt="CSS"/></div>
+    </div>
+<div style="margin: 10px;">
+      <a href="https://github.com/d-beloved/news-harbor">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=d-beloved&repo=news-harbor&theme=radical" />
+      </a>
+      <br/>
+      <div align="center"><img src="https://img.shields.io/badge/-Dockerfile-384d54?style=flat-square&logo=dockerfile&logoColor=white" alt="Dockerfile"/> <img src="https://img.shields.io/badge/-JavaScript-f1e05a?style=flat-square&logo=javascript&logoColor=white" alt="JavaScript"/> <img src="https://img.shields.io/badge/-HTML-e34c26?style=flat-square&logo=html&logoColor=white" alt="HTML"/></div>
+    </div><div style="margin: 10px;">
+      <a href="https://github.com/d-beloved/git-repo-lines-of-code">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=d-beloved&repo=git-repo-lines-of-code&theme=radical" />
+      </a>
+      <br/>
+      <div align="center"><img src="https://img.shields.io/badge/-TypeScript-3178c6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript"/></div>
+    </div>
+<div style="margin: 10px;">
+      <a href="https://github.com/d-beloved/thelearnedtongue">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=d-beloved&repo=thelearnedtongue&theme=radical" />
+      </a>
+      <br/>
+      <div align="center"><img src="https://img.shields.io/badge/-JavaScript-f1e05a?style=flat-square&logo=javascript&logoColor=white" alt="JavaScript"/> <img src="https://img.shields.io/badge/-SCSS-c6538c?style=flat-square&logo=scss&logoColor=white" alt="SCSS"/></div>
+    </div><div style="margin: 10px;">
+      <a href="https://github.com/Namit2111/bible-verse-finder">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=d-beloved&repo=bible-verse-finder&theme=radical" />
+      </a>
+      <br/>
+      <div align="center"><img src="https://img.shields.io/badge/-Python-3572A5?style=flat-square&logo=python&logoColor=white" alt="Python"/> <img src="https://img.shields.io/badge/-HTML-e34c26?style=flat-square&logo=html&logoColor=white" alt="HTML"/> <img src="https://img.shields.io/badge/-CSS-663399?style=flat-square&logo=css&logoColor=white" alt="CSS"/></div>
+    </div>
 
   <!-- FEATURED_PROJECTS_END -->
 </div>

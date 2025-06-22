@@ -41,28 +41,51 @@ async function updateReadme() {
     });
     
     const repos = user.pinnedItems.nodes;
-    
-    // Grid layout with cards
-    let gridLayout = '';
-    repos.forEach(repo => {
-      const languageBadges = repo.languages.nodes.map(lang => 
+   
+    let gridLayout = '<table>\n';
+
+    // Process repos in pairs
+    for (let i = 0; i < repos.length; i += 2) {
+      gridLayout += '  <tr>\n';
+      
+      // First repo in the pair
+      const repo1 = repos[i];
+      const badges1 = repo1.languages.nodes.map(lang => 
         getLanguageBadge(lang.name, lang.color)
       ).join(' ');
       
-     gridLayout += `<div style="margin: 10px;">
-      <a href="${repo.url}">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=${username}&repo=${repo.name}&theme=radical" />
-      </a>
-      <br/>
-      <div align="center">${languageBadges}</div>
-    </div>`;
+      gridLayout += `    <td width="50%" align="center">
+          <a href="${repo1.url}">
+            <img src="https://github-readme-stats.vercel.app/api/pin/?username=${username}&repo=${repo1.name}&theme=maroongold" />
+          </a>
+          <br />
+          <div>${badges1}</div>
+        </td>\n`;
       
-      // Add line break every 2 repos for better mobile display
-      if (repos.indexOf(repo) % 2 === 1) {
-        gridLayout += '\n';
+      // Second repo in the pair (if it exists)
+      if (i + 1 < repos.length) {
+        const repo2 = repos[i + 1];
+        const badges2 = repo2.languages.nodes.map(lang => 
+          getLanguageBadge(lang.name, lang.color)
+        ).join(' ');
+        
+        gridLayout += `    <td width="50%" align="center">
+            <a href="${repo2.url}">
+              <img src="https://github-readme-stats.vercel.app/api/pin/?username=${username}&repo=${repo2.name}&theme=maroongold" />
+            </a>
+            <br />
+            <div>${badges2}</div>
+          </td>\n`;
+      } else {
+        // If odd number of repos, add empty cell
+        gridLayout += '    <td width="50%"></td>\n';
       }
-    });
-    
+      
+      gridLayout += '  </tr>\n';
+    }
+
+    gridLayout += '</table>';
+
     // Read the current README
     const readmeContent = readFileSync('README.md', 'utf8');
     
