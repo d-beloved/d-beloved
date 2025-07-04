@@ -2,9 +2,15 @@
 
 <div align="center">
   
-[![Website](https://img.shields.io/badge/Website-morayodeji.tech-0A0A0A?style=for-the-badge&logo=google-chrome&logoColor=white)](https://www.morayodeji.tech/)
-[![Medium](https://img.shields.io/badge/Medium-morayodeji-000000?style=for-the-badge&logo=medium&logoColor=white)](https://morayodeji.medium.com/)
-[![Hashnode](https://img.shields.io/badge/Hashnode-davemkeji-2962FF?style=for-the-badge&logo=hashnode&logoColor=white)](https://davemkeji.hashnode.dev)
+<a href="https://www.morayodeji.tech/" target="_blank" rel="noopener noreferrer">
+  <img src="https://img.shields.io/badge/Website-morayodeji.tech-0A0A0A?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Website" />
+</a>
+<a href="https://morayodeji.medium.com/" target="_blank" rel="noopener noreferrer">
+  <img src="https://img.shields.io/badge/Medium-morayodeji-000000?style=for-the-badge&logo=medium&logoColor=white" alt="Medium" />
+</a>
+<a href="https://davemkeji.hashnode.dev" target="_blank" rel="noopener noreferrer">
+  <img src="https://img.shields.io/badge/Hashnode-davemkeji-2962FF?style=for-the-badge&logo=hashnode&logoColor=white" alt="Hashnode" />
+</a>
   
 </div>
 
