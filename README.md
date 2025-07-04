@@ -2,10 +2,9 @@
 
 <div align="center">
   
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-ayodejimoronkeji-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/moronkeji-ayodeji/)
+[![Website](https://img.shields.io/badge/Website-morayodeji.tech-0A0A0A?style=for-the-badge&logo=google-chrome&logoColor=white)](https://www.morayodeji.tech/)
 [![Medium](https://img.shields.io/badge/Medium-morayodeji-000000?style=for-the-badge&logo=medium&logoColor=white)](https://morayodeji.medium.com/)
 [![Hashnode](https://img.shields.io/badge/Hashnode-davemkeji-2962FF?style=for-the-badge&logo=hashnode&logoColor=white)](https://davemkeji.hashnode.dev)
-[![X](https://img.shields.io/badge/%40morayodeji-1DA1F2?style=for-the-badge&logo=X&logoColor=white)](https://x.com/morayodeji)
   
 </div>
 
