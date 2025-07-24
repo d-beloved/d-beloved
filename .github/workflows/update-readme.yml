@@ -1,8 +1,6 @@
 name: Update README with Featured Repos
 
 on:
-  schedule:
-    - cron: '0 0 * * *'  # Daily update
   workflow_dispatch:     # Manual trigger
   push:
     branches: [ main ]
